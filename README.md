@@ -1,4 +1,4 @@
-# Python Futures Trading Bot
+# Bybit Futures Trading Bot
 
 ![Demostración del proyecto](./assets/demo.gif)
 
