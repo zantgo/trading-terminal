@@ -46,8 +46,8 @@ Sigue estos pasos para configurar y ejecutar el bot en tu máquina local.
 ### 2. Instalación
 1.  **Clonar el repositorio:**
     ```bash
-    git clone https://github.com/zantgo/bybit-futures-bot.git
-    cd bybit-futures-bot
+    git clone https://github.com/zantgo/bybit-futures-trading-bot.git
+    cd bybit-futures-trading-bot
     ```
 
 2.  **Crear y activar un entorno virtual:**
