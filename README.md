@@ -47,7 +47,7 @@ Sigue estos pasos para configurar y ejecutar el bot en tu máquina local.
 1.  **Clonar el repositorio:**
     ```bash
     git clone https://github.com/zantgo/trading-terminal.git
-    cd bybit-futures-trading-bot
+    cd trading-terminal
     ```
 
 2.  **Crear y activar un entorno virtual:**

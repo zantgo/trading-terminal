@@ -62,7 +62,7 @@ def _truncate_text(text: str, max_length: int) -> str:
 
 def _display_welcome_panel(bot_controller: Any):
     """Dibuja el panel superior con toda la información de estado."""
-    print_tui_header("Bienvenido al Asistente de Trading")
+    print_tui_header("Trading Terminal")
     
     connections_ready = bot_controller.are_connections_initialized()
     status_color = "\033[92m" if connections_ready else "\033[91m"
