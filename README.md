@@ -1,4 +1,4 @@
-# Bybit Futures Trading Bot
+# Trading Terminal
 
 ![Demostración del proyecto](./assets/demo.gif)
 
@@ -46,7 +46,7 @@ Sigue estos pasos para configurar y ejecutar el bot en tu máquina local.
 ### 2. Instalación
 1.  **Clonar el repositorio:**
     ```bash
-    git clone https://github.com/zantgo/bybit-futures-trading-bot.git
+    git clone https://github.com/zantgo/trading-terminal.git
     cd bybit-futures-trading-bot
     ```
 
